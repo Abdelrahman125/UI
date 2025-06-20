@@ -2,8 +2,7 @@
 this is a simple and modern-looking Calculator built with Python using the `customtkinter` library.  
 It supports basic arithmetic operations like addition, subtraction, multiplication, and division.
 ## 📸 Screenshot
-
-![calculator UI](assets/screenshot.png) <!-- Replace this with your own screenshot path -->
+there are file called (screenshot.png) << its the photo of calculator
 
 ## 🚀 Features
 
